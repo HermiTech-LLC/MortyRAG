@@ -1,6 +1,6 @@
 tkintertable==1.3.3
 transformers==4.44.1
-torch==2.0.1
+torch==2.2.0
 Pillow==10.0.0
 pyinstaller==5.13.0
 sentencepiece==0.1.99
